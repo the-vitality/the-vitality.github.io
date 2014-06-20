@@ -1,0 +1,15 @@
+# Site settings
+title: the vitality's blog
+email: the-vitality@qq.com
+description: "A place where I can do something by myself"
+baseurl: ""
+url: "http://the-vitality.github.io/blog"
+weibourl: "http://weibo.com/zqiuqiu"
+
+# person
+wish: "May the writing be my fortnue"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+timezone: Asia/Shanghai
